@@ -1,0 +1,5 @@
+# optionalSign term #
+program id {
+    a := +1;
+    b := -1;
+}.

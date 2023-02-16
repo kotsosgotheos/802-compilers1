@@ -1,0 +1,7 @@
+program id7 {
+    declare a,b,c;
+
+    function f1(in a) {}
+    function f2(inout b) {}
+    procedure proc(inout c) {}
+}.

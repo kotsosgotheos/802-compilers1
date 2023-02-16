@@ -1,0 +1,4 @@
+# '(' expression ')' #
+program id {
+    a := (42 * 41);
+}.

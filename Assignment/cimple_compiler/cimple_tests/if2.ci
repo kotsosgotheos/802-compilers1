@@ -1,0 +1,10 @@
+program id {
+    declare i, x;
+
+    function divides(in i, in x) {
+        declare res;
+        res := i / x;
+    }
+
+    if(divides(in i, in x) = 1) x := (0);;
+}.

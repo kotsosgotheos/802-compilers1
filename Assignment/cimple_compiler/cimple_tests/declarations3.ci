@@ -1,0 +1,5 @@
+program name {
+    declare x,y;
+    declare a;
+    declare b;
+}.

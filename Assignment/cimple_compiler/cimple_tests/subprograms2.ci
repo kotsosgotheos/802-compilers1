@@ -1,0 +1,6 @@
+program id2 {
+    declare x,y;
+    declare a;
+
+    function f(in k) {}
+}.

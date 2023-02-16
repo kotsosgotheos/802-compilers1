@@ -1,0 +1,4 @@
+# factor multermlist #
+program id {
+    a := 15 * 14 * 13 * 12 * 11;
+}.

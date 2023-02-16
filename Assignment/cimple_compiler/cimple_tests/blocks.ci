@@ -1,0 +1,16 @@
+program id {
+    declare a;
+    declare x,y;
+
+    function f(in a) {
+        declare b;
+        a := 6;
+        b := 7;
+    }
+
+    procedure p(inout y) {
+        y := 1;
+    }
+
+    y := 42;
+}.

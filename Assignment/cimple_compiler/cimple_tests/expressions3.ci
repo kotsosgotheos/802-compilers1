@@ -1,0 +1,4 @@
+# factor INTEGER #
+program id {
+    a := 42;
+}.

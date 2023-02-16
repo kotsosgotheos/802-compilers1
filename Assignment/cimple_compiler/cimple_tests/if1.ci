@@ -1,0 +1,8 @@
+program id {
+    declare x, y;
+
+    if(y = (y/x)*x)
+        y := y + 1;
+    else
+        y := 0;
+}.

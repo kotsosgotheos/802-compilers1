@@ -1,0 +1,3 @@
+program id {
+    function f(in a, inout b) {}
+}.

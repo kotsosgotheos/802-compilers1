@@ -1,0 +1,13 @@
+program id {
+    declare x;
+
+    x := 1;
+
+    incase
+        case(x = 1)
+            x := 0;
+        case(x = 2)
+            x := 0;
+        default
+            x := 42;
+}.

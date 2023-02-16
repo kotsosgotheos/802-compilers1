@@ -1,0 +1,21 @@
+program id {
+    switchcase
+        case(x > 0) {
+            sum := sum + x;
+            x := x - 1;
+        }
+        default
+            sum := 0;;
+    
+    switchcase
+        case(x > 0) {
+            x := 1;
+        }
+        case(x = 0)
+            x := 0;
+        case(x = -1)
+            x := -2;
+        default {
+            x := -42;
+        }
+}.

@@ -1,0 +1,8 @@
+program id {
+    declare i, x, fact;
+
+    while(i <= x) {
+        fact := fact * i;
+        i := i + 1;
+    };
+}.

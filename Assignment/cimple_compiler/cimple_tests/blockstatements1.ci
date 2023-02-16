@@ -1,0 +1,5 @@
+program id1 {
+    declare x;
+    function f(in a) {}
+    x := 5;
+}.

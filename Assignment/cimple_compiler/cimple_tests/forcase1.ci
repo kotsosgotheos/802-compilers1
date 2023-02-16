@@ -1,0 +1,9 @@
+program id {
+    forcase
+        case(x > 0) {
+            sum := sum + x;
+            x := x - 1
+        }
+        default
+            sum := 0;
+}.

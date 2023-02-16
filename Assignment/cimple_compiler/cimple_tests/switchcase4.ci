@@ -1,0 +1,7 @@
+program id {
+    declare x;
+
+    switchcase
+        case(x > 0)
+            x := x + 1;
+}.

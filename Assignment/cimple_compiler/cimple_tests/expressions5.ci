@@ -1,0 +1,10 @@
+# ID idtail #
+program id {
+    declare x, y;
+
+    procedure proc(in x) {
+        x := x + 1;
+    }
+
+    y := proc(in x);
+}.

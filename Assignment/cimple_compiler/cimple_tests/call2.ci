@@ -1,0 +1,9 @@
+program id {
+    declare x;
+
+    procedure proc(in x) {
+        return(x + 1);
+    }
+
+    call proc in x;
+}.
